@@ -16,3 +16,11 @@
 
 *DELETE Request*  
 ```http://localhost:3000/posts```
+
+## Public Routes
+
+*Home*  
+```http://localhost:3000/home.html```
+
+*About*  
+```http://localhost:3000/about.html```
